@@ -20,4 +20,4 @@
 
 
 # Conect API
-Documentation API [Ver Documentation](https://bitbucket.org/cevs/admingooglecloud/wiki/)
+Documentation API [Ver Documentation](https://github.com/cevs89/admingooglecloud-instance/wiki)
